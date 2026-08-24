@@ -1,0 +1,31 @@
+Title: The Garden of Deception
+Artist/Coder: [YOUR NAME]
+Medium: Python-generated artwork (NumPy, Matplotlib); SVG and PNG outputs
+Submission Seed: 20260823
+
+Short Description (approx. 130 words):
+The Garden of Deception maps rhetorical stances—truth, uncertainty, refusal, contradiction, manipulation, deception, and strategy—into botanical growth rules. Each rule tunes turning, jitter, and branching to produce distinct morphologies that interact across a shared field. A ring motif around “deception” hints at gravitational pull and self‑referential loops, while restrained line weight and a minimal palette foreground structure over surface. Determinism via a fixed seed preserves the specific composition on display while the system itself remains generative. The piece explores how simple, legible parameters can yield complex form, echoing how narratives and tactics shape living systems over time.
+
+Reproducibility:
+- Python 3.11+ (tested)
+- Dependencies: numpy>=1.26, matplotlib>=3.8
+- External assets/fonts: None required
+- Install: python -m pip install -r requirements.txt
+- Run (clean submission image): python generate.py --seed 20260823
+- Run (labeled variant): python generate.py --seed 20260823 --label
+
+Code (Gist):
+- URL: https://gist.github.com/PASTE-YOUR-GIST-URL
+- Files: generate.py (complete), requirements.txt
+
+Deliverables:
+- Primary: output/garden_of_deception_20260823.svg (clean, no on-canvas text/QR)
+- Optional raster (if requested by organizers):
+  • A3 landscape @ 300 DPI: 4961×3508 px
+  • A2 landscape @ 300 DPI: 7016×4961 px
+
+Contact (optional):
+- Email: you@example.com
+- Website/Portfolio: https://example.com
+
+Version: 1.0

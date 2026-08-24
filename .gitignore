@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore private submission notes
+SUBMISSION_NOTES.local.txt
+
+# Ensure this local note inside venv is never tracked
+.venv/own.txt
+
+.artsummary
